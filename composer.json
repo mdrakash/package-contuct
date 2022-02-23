@@ -1,0 +1,19 @@
+{
+    "name": "akash/contuct",
+    "description": "this will send email",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "mdrakash",
+            "email": "mdrakash32@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Akash\\Contuct\\": "src/"
+        }
+    }
+}
