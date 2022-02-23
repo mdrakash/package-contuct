@@ -15,5 +15,12 @@
         "psr-4": {
             "Akash\\Contuct\\": "src/"
         }
+    },
+    "extra":{
+        "laravel":{
+            "provider":[
+                "Akash\\Contuct\\ContuctServiceProvider"
+            ]
+        }
     }
 }
